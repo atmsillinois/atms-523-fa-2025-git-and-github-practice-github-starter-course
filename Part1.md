@@ -1,0 +1,3 @@
+# Module 1 Part 1
+
+Through this assignment I learned about the basic workflows of using GitHub. I was fairly familiar with GitHub from undergraduate classes but did not have extensive experience with the flow such as using branches and creating pull requests when working with groups. I also learned the difference of Git as a version control system and GitHub as a way to use Git online with an easy to use interface.
