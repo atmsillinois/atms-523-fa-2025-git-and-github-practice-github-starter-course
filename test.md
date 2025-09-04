@@ -9,7 +9,9 @@ Test superscript: m s<sup>-1</sup>
 <ins>underline</ins>  
 ## Test 2nd level header - Quotes
 This is what my book said this morning:
+
 > "It's a great day"
+
 To read in the numpy package use: 'import numpy as np'
 If want to read in many packages:
 '''
