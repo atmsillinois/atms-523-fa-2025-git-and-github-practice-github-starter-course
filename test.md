@@ -1,10 +1,10 @@
 # Experimenting with markdown formatting
 **Bold**  
-* *italic* *  
-~~ strikethrough ~~  
+_italic_  
+~~strikethrough~~  
 **bolded text then _this is important because italics_**  
 ***Bold and italics***  
-Test subscript: DFR<sup>Ku/Ka</sub>  
+Test subscript: DFR<sub>Ku/Ka</sub>  
 Test superscript: m s<sup>-1</sup>  
 <ins>underline</ins>  
 ## Test 2nd level header - Quotes
