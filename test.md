@@ -12,7 +12,7 @@ This is what my book said this morning:
 
 > "It's a great day"
 
-To read in the numpy package use: `import numpy as np`
+To read in the numpy package use: `import numpy as np`  
 If want to read in many packages:
 ```
 import numpy as np
@@ -20,7 +20,6 @@ import pandas as pd
 import matplotlib as plt
 ```
 ### Test 3rd level header
-Can also show colors like `#000000`
 Show a [Link](https://fightingillini.com/sports/womens-swimming-and-diving)
 ### Image
 ![Snowflake](https://www.snowcrystals.com/photos/f0105a169Abluemask.jpg)
@@ -32,6 +31,7 @@ Ranking of crystal habits:
 1. Aggregate
 2. Dendrite
 3. Bullett Rosetts
+
 Task list:
 -[x]Make markdown
 -[]Make readme
