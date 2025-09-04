@@ -27,16 +27,18 @@ List of crystal habits:
 - Plate
   - Dendrite
     - Column
+   
 Ranking of crystal habits:
 1. Aggregate
 2. Dendrite
 3. Bullett Rosetts
 
 Task list:
--[x]Make markdown
--[]Make readme
--[]Make Pull Request
+- [x] Make markdown
+- [ ] Make readme
+- [ ] Make Pull Request
 
-[!IMPORTANT]
+> [!IMPORTANT]
 I think this is good enough experimenting
+
 <!-- Just some hidden practice too -->
